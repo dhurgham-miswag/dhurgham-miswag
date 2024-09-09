@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm dhurgham</h1>
 <h3 align="center">A human from earth</h3>
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/dhurgham-miswag/dhurgham-miswag)
+- 👨‍💻 All of my projects are available at [here](https://github.com/dhurgham-miswag/)
 
 - 📫 How to reach me **dhurgham.oday@miswag.com**
 
